@@ -23,7 +23,7 @@ class solution{
                 high--;
             }
         }
-        System.out.println("Sorted Array:");
+        System.out.println("Sorted Array: ");
         for(int i=0; i<n; i++) {
             System.out.print(arr[i] + " ");
         }
